@@ -12,4 +12,4 @@ Advanced algorithms are used to decode and analyze the captured facial images.
 Facial parameters are extracted and compared with stored datasets to verify employee identity and presence.
 The system analyzes employee behavior, including activities such as sleeping or leaving the office earlier than scheduled.
 Based on behavior analysis, deductions may be made from the employee's salary on a daily basis or even result in job loss.
-The project maintains a comprehensive record of activities and reasons for salary deductions as proof and documentation.
+The project maintains a comprehensive record of activities and reasons for salary deductions as proof and documentation..
