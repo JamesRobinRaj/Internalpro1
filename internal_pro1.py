@@ -10,6 +10,7 @@ from imutils import face_utils
 import dlib
 from datetime import timedelta, datetime
 import pandas as pd
+import random 
 emotions = ["Sad", "Happy", "Cry", "Neutral"]
 
 def emotions(data, name):
